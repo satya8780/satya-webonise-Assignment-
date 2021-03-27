@@ -27,4 +27,3 @@ Vagrant.configure("2") do |config|
   end
 
 end
-© 2021 GitHub, Inc.
