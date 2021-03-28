@@ -323,3 +323,37 @@ vi satya.sh
 vi satya.sh 
 ./satya.sh
 vi satya.sh 
+clear
+ls
+cd script/
+ls
+pwd
+clear
+ls
+vi satya.sh 
+./satya.sh 
+ls new_image.json
+clear
+ls
+cd script/
+ls
+pwd
+cd
+ls
+ls /home/ec2-user/script
+ls /home/ec2-user/script/new_image.json
+vi satya.sh 
+cd script/
+ls
+vi retention-file-deletion.sh 
+grep 'creationTimestamp\|id' new_image.json
+grep 'creationTimestamp\| new_image.json
+grep 'creationTimestamp | new_image.json
+grep 'creationTimestamp
+grep creationTimestamp
+find creationTimestamp new_image.json
+find new_image.json creationTimestamp
+find creationTimestamp | new_image.json
+grep creationTimestamp | new_image.json
+clear
+ls
